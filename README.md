@@ -18,5 +18,4 @@ It helps to automate the scanning and enumeration process for pen testers and yo
 ``` https://github.com/tomnomnom/httprobe ```
 ### Nmap
 ``` https://nmap.org/download.html ```
-### Waybackurls
-``` https://github.com/tomnomnom/waybackurls ```
+
