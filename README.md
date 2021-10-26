@@ -8,14 +8,14 @@ It helps to automate the scanning and enumeration process for pen testers and yo
 
 # Dependencies
 
-### Assetfinder 
+* ### Assetfinder 
 ``` https://github.com/tomnomnom/assetfinder ```
-### Gowitness
+* ### Gowitness
 ``` https://github.com/sensepost/gowitness ```
-### Subjack
+- ### Subjack
 ``` https://github.com/haccer/subjack ```
-### Httprobe
+* ### Httprobe
 ``` https://github.com/tomnomnom/httprobe ```
-### Nmap
+* ### Nmap
 ``` https://nmap.org/download.html ```
 
